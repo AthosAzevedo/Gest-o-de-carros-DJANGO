@@ -1,1 +1,6 @@
 venv/
+media/
+db.sqlite3
+*.png
+*.jpeg
+*.jpg
